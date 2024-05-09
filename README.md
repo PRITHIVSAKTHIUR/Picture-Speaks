@@ -10,4 +10,23 @@ pinned: false
 license: creativeml-openrail-m
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+🚀Check out the configuration reference at : https://huggingface.co/docs/hub/spaces-config-reference
+
+🚀Huggingface space : https://huggingface.co/spaces/prithivMLmods/i-Talk
+
+🚀Git Clone with Huggingface All Files : git clone https://huggingface.co/spaces/prithivMLmods/i-Talk
+
+## 🗣️Uploading Vioce Sample to Infer & Adding Prompt For Conversion
+
+![alt text](assets/cc1.png)
+
+## 🫙Taking Face / Picture Speaks
+
+![alt text](assets/ps1.gif)
+
+.
+
+.
+
+.
